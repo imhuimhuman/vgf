@@ -1,0 +1,16 @@
+{
+  "name": "join-dmer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord-invite": "^4.0.8",
+    "discord.js": "^14.14.1",
+    "mongoose": "^8.3.3"
+  }
+}
